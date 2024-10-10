@@ -7,7 +7,6 @@ use App\Models\Project;
 
 class Show extends Component
 {
-
     public Project $project;
 
     public function render()
