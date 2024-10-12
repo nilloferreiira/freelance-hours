@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::table('proposals', function (Blueprint $table) {
             $table->unsignedInteger('position')->nullable();
-            $table->string('postition_status')->nullable();
+            $table->string('position_status')->nullable();
         });
     }
 
@@ -23,7 +23,7 @@ return new class extends Migration
     public function down(): void
     {
         Schema::table('proposals', function (Blueprint $table) {
-            $table->dropColumn(['position', 'postition_status']);
+            $table->dropColumn(['position', 'position_status']);
         });
     }
 };
