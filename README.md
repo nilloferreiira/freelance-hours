@@ -25,7 +25,3 @@ Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, entre em con
 ## Agradecimentos
 
 Gostaria de expressar minha gratidão à **Rocketseat** por proporcionar esta oportunidade de aprendizado, e por oferecer uma plataforma tão inspiradora para desenvolvedores. Este projeto foi uma excelente introdução ao mundo do **PHP** e **Laravel**, e estou empolgado para continuar explorando novos desafios!
-
----
-
-Essa versão oferece uma organização mais clara e objetiva, melhora a fluidez da leitura e utiliza links adequados no contato.
