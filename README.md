@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada do seu README, com algumas melhorias na estrutura, clareza e formatação:
-
----
-
 # Freelance Hours
 
 **Freelance Hours** é um projeto desenvolvido durante o evento NLW de PHP da Rocketseat. Este foi meu primeiro contato com PHP e Laravel, e a experiência foi extremamente enriquecedora, abrindo novas oportunidades para expandir meus conhecimentos no desenvolvimento web.
